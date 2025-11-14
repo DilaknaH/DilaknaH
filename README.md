@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilakna Godagamage</h1>
 <h3 align="center">Data Science • ML • Analytics • Innovation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilaknah&label=Profile%20views&color=0e75b6&style=flat" alt="dilaknah" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dilaknah&label=Profile%20views&color=0e75b6&style=flat" alt="dilaknah" /> </p>
 
 - 🌱 I’m currently learning **advanced Python, data mining, SQL engineering, aviation analytics, and cloud-based ML**
 
