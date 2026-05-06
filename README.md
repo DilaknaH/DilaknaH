@@ -13,11 +13,11 @@
 
 ## 🚀 About Me
 
-- 🌱 Applied Data Science undergraduate passionate about **AI, Machine Learning & Data-Driven Systems**
-- 🧠 Strong belief in **learning by building and continuous experimentation**
-- 📊 Interested in **predictive modeling, intelligent automation & analytics systems**
-- 🚀 Currently exploring **advanced Python, Data Mining, SQL Engineering, Aviation Analytics & Cloud ML**
-- 💡 Always curious to turn **data into impactful real-world solutions**
+- Applied Data Science undergraduate passionate about **AI, Machine Learning & Data-Driven Systems**
+- Strong belief in **learning by building and continuous experimentation**
+- Interested in **predictive modeling, intelligent automation & analytics systems**
+- Currently exploring **advanced Python, Data Mining, SQL Engineering, Aviation Analytics & Cloud ML**
+- Always curious to turn **data into impactful real-world solutions**
 
 ---
 
