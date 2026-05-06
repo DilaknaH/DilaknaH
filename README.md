@@ -29,6 +29,14 @@
 </a>
 </p>
 
+<h3 align="left">🌐 Portfolio</h3>
+
+<p align="left">
+<a href="https://dilakna-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Project-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
+
 ---
 
 ## 💻 Tech Stack
@@ -40,15 +48,6 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DilaknaH&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilaknaH&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
