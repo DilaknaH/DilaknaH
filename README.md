@@ -3,40 +3,68 @@
 <h3 align="center">Data Science • Machine Learning • AI • Analytics • Innovation</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilaknah&label=Profile%20views&color=0e75b6&style=flat" alt="dilaknah" />
+  <img src="https://komarev.com/ghpvc/?username=dilaknah&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/dilaknah?label=Followers&style=social" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-blue" />
+  <img src="https://img.shields.io/badge/AI-ML-orange" />
 </p>
 
 ---
 
-- 🌱 I’m an Applied Data Science Undergraduate passionate about transforming data into intelligent, real-world solutions  
-- 🚀 I enjoy building projects in **Machine Learning, Data Analytics, and AI-driven systems**  
-- 🧠 I believe in **learning by building, experimenting, and continuous improvement**  
-- 📊 Currently exploring **advanced Python, Data Mining, SQL Engineering, Aviation Analytics, and Cloud-based ML systems**  
-- 💡 Strong interest in **predictive modeling, intelligent automation, and data-driven decision systems**
+## 🚀 About Me
+
+- 🌱 Applied Data Science undergraduate passionate about **AI, Machine Learning & Data-Driven Systems**
+- 🧠 Strong belief in **learning by building and continuous experimentation**
+- 📊 Interested in **predictive modeling, intelligent automation & analytics systems**
+- 🚀 Currently exploring **advanced Python, Data Mining, SQL Engineering, Aviation Analytics & Cloud ML**
+- 💡 Always curious to turn **data into impactful real-world solutions**
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🌐 Connect With Me
+
 <p align="left">
 <a href="https://www.linkedin.com/in/dilakna/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dilakna LinkedIn" height="30" width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-Dilakna%20Godagamage-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
+## 💻 Tech Stack
 
 <p align="left">
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilaknah&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilaknah&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilaknah&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Core Mindset
+
+> “I don’t just learn tools. I build systems, break problems, and learn from every iteration.”
+
+---
+
+⭐ Always open to **Data Science, AI & ML opportunities** and collaboration.
